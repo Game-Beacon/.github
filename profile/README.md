@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hi, 大家好! 👋
 
-<!--
+這裡是 MatchWorkshop 資訊部! 我們正在進行改制當中! 近期會對這則文檔進行補充!
+請各位耐心等待!
 
-**Here are some ideas to get you started:**
+* 如果想要加入, 請在 [Join](https://github.com/MatchWorkshop/Join) 填寫入會表單. (點[這](https://github.com/MatchWorkshop/Join/issues/new/choose))
+* 有其他疑問, 歡迎到到我們的 [前台](https://github.com/MatchWorkshop/Front_office) 處發表任何問題 issue!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+WIP..
